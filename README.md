@@ -1,4 +1,4 @@
-# IPC - Shared Memory and Message Passing
+# Inter-Process Communication : Shared Memory and Message Passing
 =================================================
 
 Course: Operating Systems (NCKU CSIE 2025)
