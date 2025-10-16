@@ -123,7 +123,7 @@ Tools: make, gdb, vim, git
 ## 9. Setup Steps
 ----------------
 1. Clone the repository:
-       git clone https://github.com/yourusername/os_2025_lab1.git
+       git clone [https://github.com/yourusername/os_2025_lab1.git](https://github.com/pukyle/os_2025_lab1)
        cd os_2025_lab1
 
 2. Build the project:
