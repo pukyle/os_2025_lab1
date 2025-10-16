@@ -1,4 +1,4 @@
-# OS 2025 Lab 1 - Shared Memory and Message Passing
+# IPC - Shared Memory and Message Passing
 =================================================
 
 Course: Operating Systems (NCKU CSIE 2025)
