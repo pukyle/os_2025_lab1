@@ -8,7 +8,9 @@
         "/usr/include/x86_64-linux-gnu",
         "/usr/include/linux"
       ],
-      "defines":[],
+      "defines": [
+        "_POSIX_C_SOURCE=199309L"
+      ],
       "compilerPath": "/usr/bin/gcc",
       "cStandard": "c17",
       "cppStandard": "c++17",
