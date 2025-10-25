@@ -72,6 +72,10 @@ The sender reads each line from message.txt and sends it to the receiver.
 When the sender reaches EOF, it sends an exit message.
 The receiver terminates after receiving the exit message.
 
+<img width="737" height="612" alt="image" src="https://github.com/user-attachments/assets/2d7e5820-0837-4241-a47a-e19ca9231dda" />
+
+
+
 ------------------------------------------------------------
 
 ## 5. Time Measurement
